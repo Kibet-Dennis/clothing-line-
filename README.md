@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# Style Gurus Clothing Line
 
-## Project info
+## Project Overview
 
-**URL**: https://lovable.dev/projects/3b319a88-5a16-492c-a0e6-230a8998cbd3
+Style Gurus is Kenya's leading online fashion store, offering authentic mitumba (second-hand) and new clothing collections. Our mission is to make premium fashion accessible and affordable for everyone.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+![Style Gurus](https://github.com/user-attachments/assets/a768fb2f-e48b-45a5-b60c-f1351dfd884a)
 
-**Use Lovable**
+🌐 **Live Demo**: [stylegurus.netlify.app](https://stylegurus.netlify.app/)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3b319a88-5a16-492c-a0e6-230a8998cbd3) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛍️ Overview
 
-**Use your preferred IDE**
+Style Gurus showcases a wide range of clothing for men, women, and children. The site is designed to be fast, mobile-friendly, and easy to use, helping customers discover the latest trends and timeless classics.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ✨ Features
 
-Follow these steps:
+- Smooth browsing experience with active section highlighting
+- Dynamic product gallery with interactive hover effects
+- Easy-to-use shopping cart and checkout
+- Mobile-friendly responsive design
+- Customer testimonials and reviews
+- Stylish contact form for inquiries
+- WhatsApp floating button for instant support
+- Modern footer with social media links
+- Futuristic UI and optimized user experience
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠 Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Category   | Tech Used                        |
+|------------|----------------------------------|
+| Frontend   | React, TypeScript, Vite          |
+| Styling    | Tailwind CSS, ShadCN UI          |
+| Icons      | Lucide React, React Icons        |
+| Deployment | Netlify                          |
+| Animations | Tailwind transitions, fade-ins   |
+| Fonts      | Google Fonts (Inter)             |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 🚀 Getting Started
+
+You can clone and run this project locally:
+
+### Prerequisites
+
+- Node.js & npm ([Install guide](https://github.com/nvm-sh/nvm#installing-and-updating))
+
+### Local Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/<your-repo-name>.git
+
+# Navigate into the project directory
+cd <your-repo-name>
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📦 Contributing
 
-**Use GitHub Codespaces**
+We welcome contributions! Feel free to open issues or submit pull requests to improve the site.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📞 Contact
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3b319a88-5a16-492c-a0e6-230a8998cbd3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+For support or inquiries, use the contact form on the site or reach out via WhatsApp.

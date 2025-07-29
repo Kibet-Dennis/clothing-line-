@@ -59,7 +59,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-6">Get in Touch</h3>
             <div className="space-y-3 text-gray-400">
-              <p>📱 WhatsApp: +254 712 345 678</p>
+              <p>📱 WhatsApp: +254 700545425</p>
               <p>📧 info@stylegurus.co.ke</p>
               <p>📍 Nairobi, Kenya</p>
               <p>🕒 Mon-Sat: 8AM-8PM</p>
