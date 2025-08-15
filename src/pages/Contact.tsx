@@ -32,7 +32,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Phone & WhatsApp</h3>
-                  <p className="text-gray-600">+254 712 345 678</p>
+                  <p className="text-gray-600">+254700545425</p>
                   <button
                     onClick={handleWhatsAppClick}
                     className="mt-2 inline-flex items-center space-x-2 text-green-600 hover:text-green-700 font-medium"
