@@ -20,28 +20,28 @@ Style Gurus showcases a wide range of clothing for men, women, and children. The
 
 ## ✨ Features
 
-- Smooth browsing experience with active section highlighting
-- Dynamic product gallery with interactive hover effects
-- Easy-to-use shopping cart and checkout
-- Mobile-friendly responsive design
-- Customer testimonials and reviews
-- Stylish contact form for inquiries
-- WhatsApp floating button for instant support
-- Modern footer with social media links
-- Futuristic UI and optimized user experience
+- 🖱️ **Smooth browsing experience** with active section highlighting  
+- 🖼️ **Dynamic product gallery** with interactive hover effects  
+- 🛒 **Easy-to-use shopping cart** and checkout  
+- 📱 **Mobile-friendly responsive design**  
+- 💬 **Customer testimonials** and reviews  
+- ✉️ **Stylish contact form** for inquiries  
+- 📲 **WhatsApp floating button** for instant support  
+- 🔗 **Modern footer** with social media links  
+- 🚀 **Futuristic UI** and optimized user experience  
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category   | Tech Used                        |
-|------------|----------------------------------|
-| Frontend   | React, TypeScript, Vite          |
-| Styling    | Tailwind CSS, ShadCN UI          |
-| Icons      | Lucide React, React Icons        |
-| Deployment | Netlify                          |
-| Animations | Tailwind transitions, fade-ins   |
-| Fonts      | Google Fonts (Inter)             |
+| Category     | Tech Used                                 |
+|--------------|-------------------------------------------|
+| ⚛️ Frontend  | React, TypeScript, Vite                   |
+| 🎨 Styling   | Tailwind CSS, ShadCN UI                   |
+| 🖍️ Icons     | Lucide React, React Icons                 |
+| 🚀 Deployment| Netlify                                   |
+| ✨ Animations | Tailwind transitions, fade-ins            |
+| 🔤 Fonts     | Google Fonts (Inter)                      |
 
 ---
 
@@ -52,6 +52,7 @@ You can clone and run this project locally:
 ### Prerequisites
 
 - Node.js & npm ([Install guide](https://github.com/nvm-sh/nvm#installing-and-updating))
+- For questions or support, email **gurucreationsltd@gmail.com**
 
 ### Local Setup
 
@@ -73,10 +74,13 @@ npm run dev
 
 ## 📦 Contributing
 
-We welcome contributions! Feel free to open issues or submit pull requests to improve the site.
+We welcome contributions! Feel free to open issues or submit pull requests to improve the site.  
+For collaboration or suggestions, contact **gurucreationsltd@gmail.com**.
 
 ---
 
 ## 📞 Contact
 
-For support or inquiries, use the contact form on the site or reach out via WhatsApp.
+For support or inquiries, use the contact form on the site or email us at **gurucreationsltd@gmail.com**.
+
+---
