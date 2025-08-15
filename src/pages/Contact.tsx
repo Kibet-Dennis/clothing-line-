@@ -1,11 +1,10 @@
-
 import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 const Contact = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/254712345678?text=Hello! I'm interested in your products.", "_blank");
+    window.open("https://wa.me/254700545425?text=Hello! I'm interested in your products.", "_blank");
   };
 
   return (
@@ -50,8 +49,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                  <p className="text-gray-600">info@stylegurus.co.ke</p>
-                  <p className="text-gray-600">support@stylegurus.co.ke</p>
+                  <p className="text-gray-600">gurucreationsltd@gmail.com</p>
                 </div>
               </div>
 
@@ -90,7 +88,7 @@ const Contact = () => {
                   <span>Start WhatsApp Chat</span>
                 </button>
                 <a
-                  href="mailto:info@stylegurus.co.ke"
+                  href="mailto:gurucreationsltd@gmail.com"
                   className="w-full bg-blue-500 hover:bg-blue-600 text-white py-3 px-4 rounded-lg font-medium transition-colors flex items-center justify-center space-x-2"
                 >
                   <Mail className="h-5 w-5" />
